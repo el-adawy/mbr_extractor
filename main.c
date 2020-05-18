@@ -4,7 +4,7 @@
 #include <unistd.h>
 
 /**
- * This program extracts some pertinent informations from a mbr file.
+ * This program extracts some relevant informations from a mbr file.
  * The file name is put on the first argument when the program is executed.
  *
  * @author Mohamed Ahmed
